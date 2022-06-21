@@ -2,10 +2,7 @@
 My journey to Data Analysts 
 
 # Problem statement
-What are sales by country per product  
-What is the favourite product across all countries? 
-Which country had more sales 
-Which products was sold the most in Germany?
+What are sales by country per product, What is the favourite product across all countries? Which country had more sales, Which products was sold the most in Germany?
 
 # Data sourcing
 This sample dataset was downloaded here https://aka.ms/30DLDATFinanceDataSample  as the part of NG30 Days of Learning session. I also attached the excel file here. 
