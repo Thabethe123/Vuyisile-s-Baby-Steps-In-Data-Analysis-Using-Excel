@@ -6,7 +6,7 @@ My journey to Data Analysts
 
 
 # Data sourcing
-
+This sample dataset was downloaded here https://aka.ms/30DLDATFinanceDataSample  as the part of NG30 Days of Learning session. 
 
 # Data transformation
 
